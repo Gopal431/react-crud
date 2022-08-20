@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "name": [
+        "Antesh kumar jha "
+      ],
+      "username": [
+        "24000120054"
+      ],
+      "email": [
+        "ruyadav11@gmail.com"
+      ],
+      "phone": [
+        "96144243"
+      ],
+      "website": [
+        "antesh.com"
+      ],
+      "id": 12
+    },
+    {
+      "name": [
+        "Shweta Malik"
+      ],
+      "username": [
+        "sweta431"
+      ],
+      "email": [
+        "sweta@com"
+      ],
+      "phone": [
+        "8855221144"
+      ],
+      "website": [
+        "sweta.com"
+      ],
+      "id": 13
+    },
+    {
+      "name": [
+        "jay kumar"
+      ],
+      "username": [
+        "jay456"
+      ],
+      "email": [
+        "jay.com"
+      ],
+      "phone": [
+        "7744112233"
+      ],
+      "website": [
+        "jay.world"
+      ],
+      "id": 14
+    },
+    {
+      "name": [
+        "Priya jha "
+      ],
+      "username": [
+        "priyaclass"
+      ],
+      "email": [
+        "priyajha578@gmail.com"
+      ],
+      "phone": [
+        "8798797877498"
+      ],
+      "website": [
+        "PRIYA .COM"
+      ],
+      "id": 15
+    },
+    {
+      "name": [
+        "Netu Gupta"
+      ],
+      "username": [
+        "Netu456"
+      ],
+      "email": [
+        "netu@gmail.com"
+      ],
+      "phone": [
+        "7788995566"
+      ],
+      "website": [
+        "Netugupta.com"
+      ],
+      "id": 16
+    },
+    {
+      "name": [
+        "hari Raj"
+      ],
+      "username": [
+        "Hair456"
+      ],
+      "email": [
+        "hariraj@gmail.com"
+      ],
+      "phone": [
+        "45454645454"
+      ],
+      "website": [
+        "Harish.com"
+      ],
+      "id": 17
+    },
+    {
+      "name": [
+        "Mou Singh"
+      ],
+      "username": [
+        "mou123"
+      ],
+      "email": [
+        "mou@gmail.com"
+      ],
+      "phone": [
+        "84565468616"
+      ],
+      "website": [
+        "Mou.com"
+      ],
+      "id": 18
+    },
+    {
+      "name": [
+        "Nishant Prasad"
+      ],
+      "username": [
+        "nishant431"
+      ],
+      "email": [
+        "nishant@gmail.com"
+      ],
+      "phone": [
+        "8759577264"
+      ],
+      "website": [
+        "NishantWorld.com"
+      ],
+      "id": 19
+    }
+  ]
+}
